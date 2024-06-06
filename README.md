@@ -1,8 +1,8 @@
 # 💫 **About Me:**
-<div align="center" style="font-weight: 600;">
-Hi there 👋 ! <br>
-Future software engineer.
-<br>🌱 I am currently learning design patterns<br>
+<div align="center">
+<strong>Hi there 👋 !</strong> <br>
+<strong>Future software engineer.</strong>
+<br><strong>🌱 I am currently learning design patterns</strong><br>
 </div>
 
 # 💻 **Tech Stack:**
