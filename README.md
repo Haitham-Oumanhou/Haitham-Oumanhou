@@ -1,13 +1,16 @@
-<div align="center">
-    <img src="./ezgif.com-resize .gif" alt="GIF" style="width: 100%; max-width: 800px; height: auto;">
+<div align="center" style="font-weight: 600;">
+**Hi there 👋 !**
+ <br>
+   ** I'm Haitham Oumanhou , Future software engineer .**
+
 </div>
 
-# 💫 **About Me:**
-<div align="center" style="font-weight: 600;">
-Hi there 👋 ! <br>
-Future software engineer.
-<br>🌱 I am currently learning design patterns<br>
+<div align="center">
+    <img src="./ezgif.com-resize .gif.gif" alt="GIF" style="width: 100%; max-width: 800px; height: auto;">
 </div>
+
+
+
 
 # 💻 **Tech Stack:**
 <div align="center">
