@@ -11,7 +11,7 @@
 
 
 # 💻 **Tech Stack:**
-<div align="center">
+<div >
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -24,7 +24,7 @@
 # 📊 **GitHub Stats:**
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Haitham-Oumanhou&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" style="height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haitham-Oumanhou&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 200px; ">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haitham-Oumanhou&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 200px; margin-left: 20px;">
 </div>
 
 
