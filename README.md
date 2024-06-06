@@ -1,5 +1,7 @@
 # 💫 About Me:
- Future software engineer.<br>🌱 I am currently learning design patterns<br>
+Hi there 👋 !
+Future software engineer.
+<br>🌱 I am currently learning design patterns<br>
 
 
 # 💻 Tech Stack:
