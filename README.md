@@ -1,7 +1,6 @@
 <div align="center">
-    <img src="./ezgif.com-resize .gif" alt="GIF" style="width: 100%; max-width: 800px; height: auto;">
+    <img src="./assets/optimized-gif.gif" alt="GIF" style="width: 100%; max-width: 800px; height: auto;">
 </div>
-
 
 # 💫 **About Me:**
 <div align="center" style="font-weight: 600;">
