@@ -1,6 +1,6 @@
 # 💫 **About Me:**
 <br>Hi there 👋 ! <br>
-Future software engineer.
+I'm a future software engineer.
 <br>🌱 I am currently learning design patterns<br>
 
 
