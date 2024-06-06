@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 !
+<strong>Hi there 👋 ! <strong>
 Future software engineer.
 <br>🌱 I am currently learning design patterns<br>
 
