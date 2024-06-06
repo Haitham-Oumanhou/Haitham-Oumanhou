@@ -1,8 +1,11 @@
+![GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJ1ZXdid3Z6aDk3eWJ0Z2VxdHczdmQ3ZzNia3NubmpsMjUwNWg5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif)
+
+
 # 💫 **About Me:**
-<div align="center">
-<strong>Hi there 👋 !</strong> <br>
-<strong>Future software engineer.</strong>
-<br><strong>🌱 I am currently learning design patterns</strong><br>
+<div align="center" style="font-weight: 600;">
+Hi there 👋 ! <br>
+Future software engineer.
+<br>🌱 I am currently learning design patterns<br>
 </div>
 
 # 💻 **Tech Stack:**
