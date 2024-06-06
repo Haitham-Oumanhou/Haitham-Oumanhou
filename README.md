@@ -1,6 +1,7 @@
 
+
 <div align="center">
-    <h1>Hi there 👋 ! I'm Haitham Oumanhou, Future software engineer.</h1>
+   Hi there 👋 ! I'm Haitham Oumanhou, Future software engineer.
 </div>
 <div align="center">
     <img src="./ezgif.com-resize .gif" alt="GIF" style="width: 100%; max-width: 800px; height: auto;">
