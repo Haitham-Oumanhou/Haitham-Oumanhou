@@ -1,9 +1,8 @@
-<div align="center" style="font-weight: 600;">
-Hi there 👋 !
- <br>
-    I'm Haitham Oumanhou , Future software engineer . 
-
+<div align="center">
+    <p style="font-weight: 600;">Hi there 👋 !</p>
+    <p style="font-weight: 600;">I'm Haitham Oumanhou, Future software engineer.</p>
 </div>
+
 
 <div align="center">
     <img src="./ezgif.com-resize .gif" alt="GIF" style="width: 100%; max-width: 800px; height: auto;">
