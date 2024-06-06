@@ -23,12 +23,9 @@
 
 # 📊 **GitHub Stats:**
 <div align="center">
-    <div style="display: inline-block; margin-right: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Haitham-Oumanhou&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" style="height: 200px;">
-    </div>
-    <div style="display: inline-block;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haitham-Oumanhou&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 200px;">
-    </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Haitham-Oumanhou&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" style="height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Haitham-Oumanhou&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" style="height: 200px; margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haitham-Oumanhou&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="height: 200px;">
 </div>
 
 
