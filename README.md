@@ -1,4 +1,6 @@
-![GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJ1ZXdid3Z6aDk3eWJ0Z2VxdHczdmQ3ZzNia3NubmpsMjUwNWg5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif)
+<div align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJ1ZXdid3Z6aDk3eWJ0Z2VxdHczdmQ3ZzNia3NubmpsMjUwNWg5byZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="GIF" style="width: 100%; height: auto;">
+</div>
 
 
 # 💫 **About Me:**
