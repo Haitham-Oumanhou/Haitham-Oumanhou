@@ -1,7 +1,7 @@
-<div align="center">
-    <p style="font-weight: 600;">Hi there 👋 !</p>
-    <p style="font-weight: 600;">I'm Haitham Oumanhou, Future software engineer.</p>
-</div>
+
+** Hi there 👋 ! **
+
+**I'm Haitham Oumanhou , Future software engineer .** 
 
 
 <div align="center">
