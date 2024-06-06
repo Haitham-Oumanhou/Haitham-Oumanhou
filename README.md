@@ -1,7 +1,8 @@
 <div align="center" style="font-weight: 600;">
-**<div align="center">Hi there 👋 !</div>**
+Hi there 👋 !
  <br>
-   **<div align="center">I'm Haitham Oumanhou, Future software engineer.</div>**
+    I'm Haitham Oumanhou , Future software engineer . 
+
 </div>
 
 <div align="center">
