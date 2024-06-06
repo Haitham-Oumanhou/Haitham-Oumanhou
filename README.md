@@ -1,7 +1,5 @@
 
-** Hi there 👋 ! **
-
-**I'm Haitham Oumanhou , Future software engineer .** 
+**Hi there 👋 !** **I'm Haitham Oumanhou , Future software engineer .** 
 
 
 <div align="center">
